@@ -25,14 +25,15 @@ Alur program dimulai dengan mengimpor berbagai kelas yang sudah dibuat sebelumny
 
 Pada tahap pertama, beberapa objek dari kelas mobil dan motor dibuat dengan memberikan nilai untuk setiap atribut yang sesuai. Misalnya, objek mobil1 dibuat dengan ID "M001", merk "Toyota Camry", plat nomor "B 0022 GA", tahun produksi 2020, warna merah, jumlah roda 4, jumlah pintu 4, dan transmisi matic. Begitu pula dengan objek-objek motor yang memiliki atribut khusus seperti tipe kendaraan.
 
-Selanjutnya, daftar kendaraan yang berisi campuran antara objek mobil dan motor dibuat untuk digunakan oleh objek pengusahaRentalKendaraan. Objek pengusaha1 kemudian dibuat dengan memasukkan informasi seperti nomor KTP, nama, alamat, nama rental, serta daftar kendaraan yang dimilikinya. Setelah objek ini dibuat, program mencetak informasi lengkap tentang pengusaha rental tersebut, termasuk daftar kendaraan yang disewakan.
+Dftar kendaraan yang berisi campuran antara objek mobil dan motor dibuat untuk digunakan oleh objek pengusahaRentalKendaraan. Objek pengusaha1 kemudian dibuat dengan memasukkan informasi seperti nomor KTP, nama, alamat, nama rental, serta daftar kendaraan yang dimilikinya. Setelah objek ini dibuat, program mencetak informasi lengkap tentang pengusaha rental tersebut, termasuk daftar kendaraan yang disewakan.
 
-Kemudian, program beralih ke pembuatan daftar mobil bekas yang akan dijual oleh penjualMobilBekas. Beberapa objek mobil ditambahkan ke dalam daftar, lalu objek penjual dibuat dengan memasukkan informasi seperti nomor KTP, nama, alamat, nomor izin usaha, serta daftar mobil bekas yang dijual. Setelah itu, informasi mengenai penjual dan daftar mobil yang tersedia ditampilkan di layar.
+Kemudian penjualMobilBekas. Beberapa objek mobil ditambahkan ke dalam daftar, lalu objek penjual dibuat dengan memasukkan informasi seperti nomor KTP, nama, alamat, nomor izin usaha, serta daftar mobil bekas yang dijual. Setelah itu, informasi mengenai penjual dan daftar mobil yang tersedia ditampilkan di layar.
 
 ## DOKUMENTASI CPP
 ![image](https://github.com/user-attachments/assets/9afa6b93-e375-4db9-a14a-39831658835b)
 ![image](https://github.com/user-attachments/assets/af88efd7-f943-4427-bbd1-58a5bd1857b0)
 
 ## DOKUMENTASI PYTHON
+![image](https://github.com/user-attachments/assets/645d3809-489f-4a1e-bb3d-59a211351b15)
 
 
